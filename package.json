@@ -1,0 +1,22 @@
+{
+  "name": "testingsite",
+  "version": "1.0.0",
+  "description": "web-marketplace",
+  "main": "app.js",
+  "scripts": {
+    "start": "app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PiePieChocoPie/WebAutorization.git"
+  },
+  "author": "Pie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PiePieChocoPie/WebAutorization/issues"
+  },
+  "homepage": "https://github.com/PiePieChocoPie/WebAutorization#readme",
+  "dependencies": {
+    "currency-converter-lt": "^2.0.0"
+  }
+}

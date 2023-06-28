@@ -1,0 +1,6 @@
+.positioned{
+    position: relative;
+    top: 300px;
+    left: 800px;
+    align-items: center;
+}
